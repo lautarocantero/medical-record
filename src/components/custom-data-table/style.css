@@ -1,0 +1,15 @@
+.react_dataTable {
+  border-radius: 0px !important;
+}
+
+.rdt_TableHeader {
+  padding-right: 16px !important;
+  min-width: 387px;
+  div {
+    font-size: 10px !important;
+  }
+}
+
+.flex {
+  display: flex;
+}
